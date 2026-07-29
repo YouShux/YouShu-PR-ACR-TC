@@ -21,7 +21,7 @@
                           }
                       ],
     "apiVersion":  13,
-    "referencePromeVersion":  "1.5.9.1",
+    "referencePromeVersion":  "1.3.1.2",
     "downloadUrl":  "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-TC/main/YouShu.zip",
     "sourceRepositoryUrl":  "https://github.com/YouShux/YouShu-PR-TC",
     "sponsorUrl":  "",
