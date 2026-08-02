@@ -1,29 +1,29 @@
 {
-    "author":  "YouShu",
-    "version":  "1.0.1.0",
-    "description":  "繁中服版本，支援日隨與高難內容；高難請搭配時間軸。支援自訂組合熱鍵、模式及 QT 風格。",
-    "supportedJobs":  [
-                          {
-                              "job":  "WHM",
-                              "contentScope":  "ALL"
-                          },
-                          {
-                              "job":  "SCH",
-                              "contentScope":  "ALL"
-                          },
-                          {
-                              "job":  "AST",
-                              "contentScope":  "ALL"
-                          },
-                          {
-                              "job":  "SGE",
-                              "contentScope":  "ALL"
-                          }
-                      ],
-    "apiVersion":  13,
-    "referencePromeVersion":  "1.3.1.2",
-    "downloadUrl":  "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-TC/main/YouShu.zip",
-    "sourceRepositoryUrl":  "https://github.com/YouShux/YouShu-PR-TC",
-    "sponsorUrl":  "",
-    "sha256":  "ec32caa725d29fe4fee1909b1450b88565ae69f108e8ff0908fac546c4415cbe"
+  "author": "YouShu",
+  "version": "1.0.1.1",
+  "description": "繁中服版本，支援日隨與高難內容；高難請搭配時間軸。支援自訂組合熱鍵、模式及 QT 風格。",
+  "supportedJobs": [
+    {
+      "job": "WHM",
+      "contentScope": "ALL"
+    },
+    {
+      "job": "SCH",
+      "contentScope": "ALL"
+    },
+    {
+      "job": "AST",
+      "contentScope": "ALL"
+    },
+    {
+      "job": "SGE",
+      "contentScope": "ALL"
+    }
+  ],
+  "apiVersion": 13,
+  "referencePromeVersion": "1.3.1.2",
+  "downloadUrl": "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-TC/main/YouShu.zip",
+  "sourceRepositoryUrl": "https://github.com/YouShux/YouShu-PR-TC",
+  "sponsorUrl": "",
+  "sha256": "c7750e500609b965315d7d896ab9eb5780e7428b63a2d76df63197f7380b5bda"
 }
