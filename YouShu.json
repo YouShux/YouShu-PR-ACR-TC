@@ -1,6 +1,6 @@
 {
   "author": "YouShu",
-  "version": "1.0.3.3",
+  "version": "1.0.3.4",
   "description": "繁中服版本，支援日隨與高難內容；高難請搭配時間軸。支援自訂組合熱鍵、模式及 QT 風格。",
   "supportedJobs": [
     {
@@ -25,5 +25,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-TC/main/YouShu.zip",
   "sourceRepositoryUrl": "https://github.com/YouShux/YouShu-PR-TC",
   "sponsorUrl": "",
-  "sha256": "4d542c9c7b5666391cfc2f6f4e45e75b3519de571a4bb70996edac91a36b3d27"
+  "sha256": "521c262bf714cb18cc8ee23e1d953dc119043a8456037e5740093892f76521ca"
 }
